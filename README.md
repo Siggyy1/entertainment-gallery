@@ -5,6 +5,11 @@ The layout is responsive, built with React Bootstrap, and each card is a reusabl
 
 🚀 How to Run
 
+Clone the repo:
+
+https://github.com/Siggyy1/entertainment-gallery.git
+
+
 Install dependencies:
 
 npm install
